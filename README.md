@@ -4,9 +4,9 @@
 This repository highlights my projects, research, and hands-on labs in cybersecurity.  
 I use this space to document my learning, share tools, and showcase practical experience.
 
+<br>
 
-
-## Skills
+## SKILLS
 
 ### Linux
 
@@ -20,33 +20,31 @@ I use this space to document my learning, share tools, and showcase practical ex
 | <div align="center">Manage files</div>         | <div align="center"><a href="https://google.com">Linux Commands</a></div> |
 | <div align="center">File Permissions</div>     | <div align="center"><a href="https://google.com">Linux Commands</a></div> |
 
+<br>
 
-
-## Projects
+## PROJECTS
 - Linux Commands
 
+<br>
 
-
-## Tools
+## TOOLS
 
 ### Network
 <div>
 <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
 <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/-tcpdump-000000?&style=for-the-badge&logo=linux&logoColor=white" />  
 </div>
 
 ### Endpoint
 <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 
-### Forensics & Incident Response
-<img src="https://img.shields.io/badge/-tcpdump-000000?&style=for-the-badge&logo=linux&logoColor=white" />
-
 ### SIEM
 <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 
+<br>
 
-
-## Certifications
+## CERTIFICATIONS
 - Foundations of Cybersecurity <img src="https://img.shields.io/badge/-Google-4285F4?&style=for-the-badge&logo=Google&logoColor=white" /> <img src="https://img.shields.io/badge/-Coursera-0056D2?&style=for-the-badge&logo=Coursera&logoColor=white" />
 - Play It Safe: Manage Security Risks <img src="https://img.shields.io/badge/-Google-4285F4?&style=for-the-badge&logo=Google&logoColor=white" /> <img src="https://img.shields.io/badge/-Coursera-0056D2?&style=for-the-badge&logo=Coursera&logoColor=white" />
 - Connect and Protect: Networks and Network Security <img src="https://img.shields.io/badge/-Google-4285F4?&style=for-the-badge&logo=Google&logoColor=white" /> <img src="https://img.shields.io/badge/-Coursera-0056D2?&style=for-the-badge&logo=Coursera&logoColor=white" />
