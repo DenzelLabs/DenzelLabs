@@ -4,23 +4,28 @@
 This repository highlights my projects, research, and hands-on labs in cybersecurity.  
 I use this space to document my learning, share tools, and showcase practical experience.
 
+
+
 ## Skills
 
 ### Linux
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Software          | <a href="https://google.com">Detection Lab</a>|
-| Input and Output | <a href="https://google.com">Detection Lab</a>|
-| Find Files         | SOC Automation Lab|
-| Filter with grep      | SOC Automation Lab|
-| Manage authorization | SOC Automation Lab|
-| Manage files                  | SOC Automation Lab|
-| File Permissions | SOC Automation Lab|
+| Skill                   | Associated Project |
+|--------------------------|--------------------|
+| <div align="center">Install Software</div>             | <div align="center"><a href="https://google.com">Linux Commands</a></div> |
+| <div align="center">Input and Output</div>     | <div align="center"><a href="https://google.com">Linux Commands</a></div> |
+| <div align="center">Find Files</div>           | <div align="center"><a href="https://google.com">Linux Commands</a></div> |
+| <div align="center">Filter with grep</div>     | <div align="center"><a href="https://google.com">Linux Commands</a></div> |
+| <div align="center">Manage authorization</div> | <div align="center"><a href="https://google.com">Linux Commands</a></div> |
+| <div align="center">Manage files</div>         | <div align="center"><a href="https://google.com">Linux Commands</a></div> |
+| <div align="center">File Permissions</div>     | <div align="center"><a href="https://google.com">Linux Commands</a></div> |
+
+
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- Linux Commands
+
+
 
 ## Tools
 
@@ -39,27 +44,16 @@ I use this space to document my learning, share tools, and showcase practical ex
 ### SIEM
 <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 
+
+
 ## Certifications
-- Foundations of Cybersecurity  
-  <img src="https://img.shields.io/badge/-Google-4285F4?&style=for-the-badge&logo=Google&logoColor=white" /> <img src="https://img.shields.io/badge/-Coursera-0056D2?&style=for-the-badge&logo=Coursera&logoColor=white" />
-
-- Play It Safe: Manage Security Risks 
-  <img src="https://img.shields.io/badge/-Google-4285F4?&style=for-the-badge&logo=Google&logoColor=white" /> <img src="https://img.shields.io/badge/-Coursera-0056D2?&style=for-the-badge&logo=Coursera&logoColor=white" />
-
-- Connect and Protect: Networks and Network Security  
-  <img src="https://img.shields.io/badge/-Google-4285F4?&style=for-the-badge&logo=Google&logoColor=white" /> <img src="https://img.shields.io/badge/-Coursera-0056D2?&style=for-the-badge&logo=Coursera&logoColor=white" />
-
-- Tools of the Trade: Linux and SQL  
-  <img src="https://img.shields.io/badge/-Google-4285F4?&style=for-the-badge&logo=Google&logoColor=white" /> <img src="https://img.shields.io/badge/-Coursera-0056D2?&style=for-the-badge&logo=Coursera&logoColor=white" />
-
-- Assets, Threats, and Vulnerabilities  
-  <img src="https://img.shields.io/badge/-Google-4285F4?&style=for-the-badge&logo=Google&logoColor=white" /> <img src="https://img.shields.io/badge/-Coursera-0056D2?&style=for-the-badge&logo=Coursera&logoColor=white" />
-
-- Sound the Alarm: Detection and Response  
-  <img src="https://img.shields.io/badge/-Google-4285F4?&style=for-the-badge&logo=Google&logoColor=white" /> <img src="https://img.shields.io/badge/-Coursera-0056D2?&style=for-the-badge&logo=Coursera&logoColor=white" />
-
-- Cyber Threat Intelligence 101  
-  <img src="https://img.shields.io/badge/-CTI101-333333?&style=for-the-badge&logo=target&logoColor=white" /> <img src="https://img.shields.io/badge/-arcX-FF6F00?&style=for-the-badge&logoColor=white" /> 
+- Foundations of Cybersecurity <img src="https://img.shields.io/badge/-Google-4285F4?&style=for-the-badge&logo=Google&logoColor=white" /> <img src="https://img.shields.io/badge/-Coursera-0056D2?&style=for-the-badge&logo=Coursera&logoColor=white" />
+- Play It Safe: Manage Security Risks <img src="https://img.shields.io/badge/-Google-4285F4?&style=for-the-badge&logo=Google&logoColor=white" /> <img src="https://img.shields.io/badge/-Coursera-0056D2?&style=for-the-badge&logo=Coursera&logoColor=white" />
+- Connect and Protect: Networks and Network Security <img src="https://img.shields.io/badge/-Google-4285F4?&style=for-the-badge&logo=Google&logoColor=white" /> <img src="https://img.shields.io/badge/-Coursera-0056D2?&style=for-the-badge&logo=Coursera&logoColor=white" />
+- Tools of the Trade: Linux and SQL <img src="https://img.shields.io/badge/-Google-4285F4?&style=for-the-badge&logo=Google&logoColor=white" /> <img src="https://img.shields.io/badge/-Coursera-0056D2?&style=for-the-badge&logo=Coursera&logoColor=white" />
+- Assets, Threats, and Vulnerabilities <img src="https://img.shields.io/badge/-Google-4285F4?&style=for-the-badge&logo=Google&logoColor=white" /> <img src="https://img.shields.io/badge/-Coursera-0056D2?&style=for-the-badge&logo=Coursera&logoColor=white" />
+- Sound the Alarm: Detection and Response <img src="https://img.shields.io/badge/-Google-4285F4?&style=for-the-badge&logo=Google&logoColor=white" /> <img src="https://img.shields.io/badge/-Coursera-0056D2?&style=for-the-badge&logo=Coursera&logoColor=white" />
+- Cyber Threat Intelligence 101 <img src="https://img.shields.io/badge/-CTI101-333333?&style=for-the-badge&logo=target&logoColor=white" /> <img src="https://img.shields.io/badge/-arcX-FF6F00?&style=for-the-badge&logoColor=white" />
 
 
 
