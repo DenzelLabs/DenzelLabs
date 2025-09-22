@@ -40,25 +40,25 @@ I use this space to document my learning, share tools, and showcase practical ex
 <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 
 ## Certifications
-- Foundations of Cybersecurity — Google (Coursera), 2025  
+- Foundations of Cybersecurity  
   <img src="https://img.shields.io/badge/-Google-4285F4?&style=for-the-badge&logo=Google&logoColor=white" /> <img src="https://img.shields.io/badge/-Coursera-0056D2?&style=for-the-badge&logo=Coursera&logoColor=white" />
 
-- Play It Safe: Manage Security Risks — Google (Coursera), 2025  
+- Play It Safe: Manage Security Risks 
   <img src="https://img.shields.io/badge/-Google-4285F4?&style=for-the-badge&logo=Google&logoColor=white" /> <img src="https://img.shields.io/badge/-Coursera-0056D2?&style=for-the-badge&logo=Coursera&logoColor=white" />
 
-- Connect and Protect: Networks and Network Security — Google (Coursera), 2025  
+- Connect and Protect: Networks and Network Security  
   <img src="https://img.shields.io/badge/-Google-4285F4?&style=for-the-badge&logo=Google&logoColor=white" /> <img src="https://img.shields.io/badge/-Coursera-0056D2?&style=for-the-badge&logo=Coursera&logoColor=white" />
 
-- Tools of the Trade: Linux and SQL — Google (Coursera), 2025  
+- Tools of the Trade: Linux and SQL  
   <img src="https://img.shields.io/badge/-Google-4285F4?&style=for-the-badge&logo=Google&logoColor=white" /> <img src="https://img.shields.io/badge/-Coursera-0056D2?&style=for-the-badge&logo=Coursera&logoColor=white" />
 
-- Assets, Threats, and Vulnerabilities — Google (Coursera), 2025  
+- Assets, Threats, and Vulnerabilities  
   <img src="https://img.shields.io/badge/-Google-4285F4?&style=for-the-badge&logo=Google&logoColor=white" /> <img src="https://img.shields.io/badge/-Coursera-0056D2?&style=for-the-badge&logo=Coursera&logoColor=white" />
 
-- Sound the Alarm: Detection and Response — Google (Coursera), 2025  
+- Sound the Alarm: Detection and Response  
   <img src="https://img.shields.io/badge/-Google-4285F4?&style=for-the-badge&logo=Google&logoColor=white" /> <img src="https://img.shields.io/badge/-Coursera-0056D2?&style=for-the-badge&logo=Coursera&logoColor=white" />
 
-- Cyber Threat Intelligence 101 — arcX, 2025  
+- Cyber Threat Intelligence 101  
   <img src="https://img.shields.io/badge/-CTI101-333333?&style=for-the-badge&logo=target&logoColor=white" /> <img src="https://img.shields.io/badge/-arcX-FF6F00?&style=for-the-badge&logoColor=white" /> 
 
 
