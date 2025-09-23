@@ -67,31 +67,31 @@ I use this space to document my learning, share tools, and showcase practical ex
 
 ## CERTIFICATIONS
 
-- <a href="https://www.coursera.org/account/accomplishments" target="_blank"><strong>Foundations of Cybersecurity</strong></a>  
+- <a href="https://www.coursera.org/account/accomplishments/verify/8CP5Z7Y9TUEY" target="_blank"><strong>Foundations of Cybersecurity</strong></a>  
   [<img src="https://img.shields.io/badge/-Google-4285F4?style=for-the-badge&logo=Google&logoColor=white" />](https://www.coursera.org/professional-certificates/google-cybersecurity) 
   [<img src="https://img.shields.io/badge/-Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" />](https://www.coursera.org/account/accomplishments)
 
-- <a href="https://www.coursera.org/account/accomplishments" target="_blank"><strong>Play It Safe: Manage Security Risks</strong></a>  
+- <a href="https://www.coursera.org/account/accomplishments/verify/R1VLE2PRUIWC" target="_blank"><strong>Play It Safe: Manage Security Risks</strong></a>  
   [<img src="https://img.shields.io/badge/-Google-4285F4?style=for-the-badge&logo=Google&logoColor=white" />](https://www.coursera.org/professional-certificates/google-cybersecurity) 
   [<img src="https://img.shields.io/badge/-Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" />](https://www.coursera.org/account/accomplishments)
 
-- <a href="https://www.coursera.org/account/accomplishments" target="_blank"><strong>Connect and Protect: Networks and Network Security</strong></a>  
+- <a href="https://www.coursera.org/account/accomplishments/verify/EULG6LLG4L2O" target="_blank"><strong>Connect and Protect: Networks and Network Security</strong></a>  
   [<img src="https://img.shields.io/badge/-Google-4285F4?style=for-the-badge&logo=Google&logoColor=white" />](https://www.coursera.org/professional-certificates/google-cybersecurity) 
   [<img src="https://img.shields.io/badge/-Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" />](https://www.coursera.org/account/accomplishments)
 
-- <a href="https://www.coursera.org/account/accomplishments" target="_blank"><strong>Tools of the Trade: Linux and SQL</strong></a>  
+- <a href="https://www.coursera.org/account/accomplishments/verify/DFM5QA9P195K" target="_blank"><strong>Tools of the Trade: Linux and SQL</strong></a>  
   [<img src="https://img.shields.io/badge/-Google-4285F4?style=for-the-badge&logo=Google&logoColor=white" />](https://www.coursera.org/professional-certificates/google-cybersecurity) 
   [<img src="https://img.shields.io/badge/-Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" />](https://www.coursera.org/account/accomplishments)
 
-- <a href="https://www.coursera.org/account/accomplishments" target="_blank"><strong>Assets, Threats, and Vulnerabilities</strong></a>  
+- <a href="https://www.coursera.org/account/accomplishments/verify/7IOGYBRYZH93" target="_blank"><strong>Assets, Threats, and Vulnerabilities</strong></a>  
   [<img src="https://img.shields.io/badge/-Google-4285F4?style=for-the-badge&logo=Google&logoColor=white" />](https://www.coursera.org/professional-certificates/google-cybersecurity) 
   [<img src="https://img.shields.io/badge/-Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" />](https://www.coursera.org/account/accomplishments)
 
-- <a href="https://www.coursera.org/account/accomplishments" target="_blank"><strong>Sound the Alarm: Detection and Response</strong></a>  
+- <a href="https://www.coursera.org/account/accomplishments/verify/JXB4H3Y3R8IV" target="_blank"><strong>Sound the Alarm: Detection and Response</strong></a>  
   [<img src="https://img.shields.io/badge/-Google-4285F4?style=for-the-badge&logo=Google&logoColor=white" />](https://www.coursera.org/professional-certificates/google-cybersecurity) 
   [<img src="https://img.shields.io/badge/-Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" />](https://www.coursera.org/account/accomplishments)
 
-- <a href="https://arcx.io/" target="_blank"><strong>Cyber Threat Intelligence 101</strong></a>  
+- <a href="https://arcx.io/verify-certificate?id=903c51c960b960c92d30971332d74811f4d9c899&k=85bcfc60fbae4888a97fec1ace158c6d" target="_blank"><strong>Cyber Threat Intelligence 101</strong></a>  
   [<img src="https://img.shields.io/badge/-CTI101-333333?style=for-the-badge&logo=target&logoColor=white" />](https://arcx.io/) 
   [<img src="https://img.shields.io/badge/-arcX-FF6F00?style=for-the-badge&logoColor=white" />](https://arcx.io/)
 
