@@ -10,14 +10,28 @@ I use this space to document my learning, share tools, and showcase practical ex
 
 ### Linux
 
-<div><a href="https://github.com/DenzelLabs/Install-Software">Linux Commands</a></div>
+<div><a href="https://github.com/DenzelLabs/Install-Software">Install Software</a></div>
+<ul>
+  <li>Confirm APT is installed in Bash</li>
+  <li>Install Suricata with APT</li>
+  <li>Uninstall Suricata with APT</li>
+  <li>Install tcpdump with APT</li>
+  <li>Reinstall Suricata with APT</li>
+</ul>
+
+<div><a href="https://github.com/DenzelLabs/Input-and-Output">Input and Output</a></div>
+<ul>
+  <li>Generate output in the shell with the echo command</li>
+  <li>Perform basic calculations with the expr command</li>
+  <li>Clear the shell window with the clear command</li>
+</ul>
+
 
 
 <br>
 
 ## PROJECTS
-- Linux Commands
-
+- 
 <br>
 
 ## TOOLS
