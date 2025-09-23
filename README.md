@@ -7,7 +7,7 @@
 This repository highlights my projects, research, and hands-on labs in cybersecurity.  
 I use this space to document my learning, share tools, and showcase practical experience.
 
-<br>
+<br><br>
 
 ## SKILLS
 
@@ -42,11 +42,13 @@ I use this space to document my learning, share tools, and showcase practical ex
 
 
 
-<br>
+
+<br><br>
 
 ## PROJECTS
-- 
-<br>
+-
+
+<br><br>
 
 ## TOOLS
 
