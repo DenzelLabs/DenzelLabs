@@ -63,16 +63,39 @@ I use this space to document my learning, share tools, and showcase practical ex
 ### SIEM
 <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 
-<br>
+<br><br>
 
 ## CERTIFICATIONS
-- Foundations of Cybersecurity <img src="https://img.shields.io/badge/-Google-4285F4?&style=for-the-badge&logo=Google&logoColor=white" /> <img src="https://img.shields.io/badge/-Coursera-0056D2?&style=for-the-badge&logo=Coursera&logoColor=white" />
-- Play It Safe: Manage Security Risks <img src="https://img.shields.io/badge/-Google-4285F4?&style=for-the-badge&logo=Google&logoColor=white" /> <img src="https://img.shields.io/badge/-Coursera-0056D2?&style=for-the-badge&logo=Coursera&logoColor=white" />
-- Connect and Protect: Networks and Network Security <img src="https://img.shields.io/badge/-Google-4285F4?&style=for-the-badge&logo=Google&logoColor=white" /> <img src="https://img.shields.io/badge/-Coursera-0056D2?&style=for-the-badge&logo=Coursera&logoColor=white" />
-- Tools of the Trade: Linux and SQL <img src="https://img.shields.io/badge/-Google-4285F4?&style=for-the-badge&logo=Google&logoColor=white" /> <img src="https://img.shields.io/badge/-Coursera-0056D2?&style=for-the-badge&logo=Coursera&logoColor=white" />
-- Assets, Threats, and Vulnerabilities <img src="https://img.shields.io/badge/-Google-4285F4?&style=for-the-badge&logo=Google&logoColor=white" /> <img src="https://img.shields.io/badge/-Coursera-0056D2?&style=for-the-badge&logo=Coursera&logoColor=white" />
-- Sound the Alarm: Detection and Response <img src="https://img.shields.io/badge/-Google-4285F4?&style=for-the-badge&logo=Google&logoColor=white" /> <img src="https://img.shields.io/badge/-Coursera-0056D2?&style=for-the-badge&logo=Coursera&logoColor=white" />
-- Cyber Threat Intelligence 101 <img src="https://img.shields.io/badge/-CTI101-333333?&style=for-the-badge&logo=target&logoColor=white" /> <img src="https://img.shields.io/badge/-arcX-FF6F00?&style=for-the-badge&logoColor=white" />
+
+- <a href="https://www.coursera.org/account/accomplishments" target="_blank"><strong>Foundations of Cybersecurity</strong></a>  
+  [<img src="https://img.shields.io/badge/-Google-4285F4?style=for-the-badge&logo=Google&logoColor=white" />](https://www.coursera.org/professional-certificates/google-cybersecurity) 
+  [<img src="https://img.shields.io/badge/-Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" />](https://www.coursera.org/account/accomplishments)
+
+- <a href="https://www.coursera.org/account/accomplishments" target="_blank"><strong>Play It Safe: Manage Security Risks</strong></a>  
+  [<img src="https://img.shields.io/badge/-Google-4285F4?style=for-the-badge&logo=Google&logoColor=white" />](https://www.coursera.org/professional-certificates/google-cybersecurity) 
+  [<img src="https://img.shields.io/badge/-Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" />](https://www.coursera.org/account/accomplishments)
+
+- <a href="https://www.coursera.org/account/accomplishments" target="_blank"><strong>Connect and Protect: Networks and Network Security</strong></a>  
+  [<img src="https://img.shields.io/badge/-Google-4285F4?style=for-the-badge&logo=Google&logoColor=white" />](https://www.coursera.org/professional-certificates/google-cybersecurity) 
+  [<img src="https://img.shields.io/badge/-Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" />](https://www.coursera.org/account/accomplishments)
+
+- <a href="https://www.coursera.org/account/accomplishments" target="_blank"><strong>Tools of the Trade: Linux and SQL</strong></a>  
+  [<img src="https://img.shields.io/badge/-Google-4285F4?style=for-the-badge&logo=Google&logoColor=white" />](https://www.coursera.org/professional-certificates/google-cybersecurity) 
+  [<img src="https://img.shields.io/badge/-Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" />](https://www.coursera.org/account/accomplishments)
+
+- <a href="https://www.coursera.org/account/accomplishments" target="_blank"><strong>Assets, Threats, and Vulnerabilities</strong></a>  
+  [<img src="https://img.shields.io/badge/-Google-4285F4?style=for-the-badge&logo=Google&logoColor=white" />](https://www.coursera.org/professional-certificates/google-cybersecurity) 
+  [<img src="https://img.shields.io/badge/-Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" />](https://www.coursera.org/account/accomplishments)
+
+- <a href="https://www.coursera.org/account/accomplishments" target="_blank"><strong>Sound the Alarm: Detection and Response</strong></a>  
+  [<img src="https://img.shields.io/badge/-Google-4285F4?style=for-the-badge&logo=Google&logoColor=white" />](https://www.coursera.org/professional-certificates/google-cybersecurity) 
+  [<img src="https://img.shields.io/badge/-Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" />](https://www.coursera.org/account/accomplishments)
+
+- <a href="https://arcx.io/" target="_blank"><strong>Cyber Threat Intelligence 101</strong></a>  
+  [<img src="https://img.shields.io/badge/-CTI101-333333?style=for-the-badge&logo=target&logoColor=white" />](https://arcx.io/) 
+  [<img src="https://img.shields.io/badge/-arcX-FF6F00?style=for-the-badge&logoColor=white" />](https://arcx.io/)
+
+
 
 
 
