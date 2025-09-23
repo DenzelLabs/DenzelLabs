@@ -28,10 +28,12 @@ I use this space to document my learning, share tools, and showcase practical ex
 
 <div><a href="https://github.com/DenzelLabs/Find-Files">Find Files</a></div>
 <ul>
-  <li>Generate output in the shell with the <strong>echo</strong> command</li>
-  <li>Perform basic calculations with the <strong>expr</strong> command</li>
-  <li>Clear the shell window with the <strong>clear</strong> command</li>
+  <li>Find your current working directory and display its contents</li>
+  <li>Navigate to a directory and list subdirectories</li>
+  <li>Display the contents of a file</li>
+  <li>Display the first 10 lines of a file</li>
 </ul>
+
 
 
 
