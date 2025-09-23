@@ -13,7 +13,7 @@ I use this space to document my learning, share tools, and showcase practical ex
 
 ### Linux
 
-<div><a href="https://github.com/DenzelLabs/Install-Software">Install Software</a></div>
+<a href="https://github.com/DenzelLabs/Install-Software" target="_blank" rel="noopener noreferrer">
 <ul>
   <li>Confirm APT is installed in Bash</li>
   <li>Install Suricata with APT</li>
