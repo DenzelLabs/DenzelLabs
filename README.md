@@ -10,15 +10,8 @@ I use this space to document my learning, share tools, and showcase practical ex
 
 ### Linux
 
-| Skill                   | Associated Project |
-|--------------------------|--------------------|
-| <div align="center">Install Software</div>             | <div align="center"><a href="https://google.com">Linux Commands</a></div> |
-| <div align="center">Input and Output</div>     | <div align="center"><a href="https://google.com">Linux Commands</a></div> |
-| <div align="center">Find Files</div>           | <div align="center"><a href="https://google.com">Linux Commands</a></div> |
-| <div align="center">Filter with grep</div>     | <div align="center"><a href="https://google.com">Linux Commands</a></div> |
-| <div align="center">Manage authorization</div> | <div align="center"><a href="https://google.com">Linux Commands</a></div> |
-| <div align="center">Manage files</div>         | <div align="center"><a href="https://google.com">Linux Commands</a></div> |
-| <div align="center">File Permissions</div>     | <div align="center"><a href="https://google.com">Linux Commands</a></div> |
+<div><a href="https://github.com/DenzelLabs/Install-Software">Linux Commands</a></div>
+
 
 <br>
 
