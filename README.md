@@ -1,6 +1,9 @@
 # Hello, I'm Denzel
 <a href="https://www.linkedin.com/in/denzelyunzal"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
+<p>⚠️ I’m transferring my projects and lab activities right now, will upload them all soon ⚠️</p>
+
+
 This repository highlights my projects, research, and hands-on labs in cybersecurity.  
 I use this space to document my learning, share tools, and showcase practical experience.
 
