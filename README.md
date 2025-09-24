@@ -82,7 +82,16 @@ I use this space to document my learning, share tools, and showcase practical ex
   <li>Find options for a command</li>
 </ul>
 
+<br><br>
 
+### SQL
+
+<div><a href="https://github.com/DenzelLabs/SQL-Query">SQL Query</a></div>
+<ul>
+  <li>Return information on employee devices</li>
+  <li>Examine login attempts</li>
+  <li>Sort the data returned from a query</li>
+</ul>
 
 
 
