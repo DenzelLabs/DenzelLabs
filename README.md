@@ -76,6 +76,13 @@ I use this space to document my learning, share tools, and showcase practical ex
   <li>Delete the employee from the system</li>
 </ul>
 
+<div><a href="https://github.com/DenzelLabs/Get-Help">Get Help</a></div>
+<ul>
+  <li>Explore commands that help you learn more about other commands</li>
+  <li>Find options for a command</li>
+  <li>Determine the differences between two commands</li>
+  <li>Identify the command needed to create a new group</li>
+</ul>
 
 
 
