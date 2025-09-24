@@ -37,6 +37,15 @@ I use this space to document my learning, share tools, and showcase practical ex
   <li>Display the first 10 lines of a file</li>
 </ul>
 
+<div><a href="https://github.com/DenzelLabs/Filter-with-grep">Filter with grep</a></div>
+<ul>
+  <li>Search for error messages in a file</li>
+  <li>Search for files that contain a specific string</li>
+  <li>Search for information in user files</li>
+</ul>
+
+
+
 
 
 
