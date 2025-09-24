@@ -68,6 +68,13 @@ I use this space to document my learning, share tools, and showcase practical ex
   <li>Change directory permissions</li>
 </ul>
 
+<div><a href="https://github.com/DenzelLabs/Manage-Users">Manage Users</a></div>
+<ul>
+  <li>Add a new employee</li>
+  <li>Change ownership of a file</li>
+  <li>Add the new employee to a new group</li>
+  <li>Delete the employee from the system</li>
+</ul>
 
 
 
