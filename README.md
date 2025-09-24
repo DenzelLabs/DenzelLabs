@@ -51,6 +51,14 @@ I use this space to document my learning, share tools, and showcase practical ex
   <li>Remove unauthorized access to a directory</li>
 </ul>
 
+<div><a href="https://github.com/DenzelLabs/Manage-Files">Manage Files</a></div>
+<ul>
+  <li>Create a new directory</li>
+  <li>Remove a directory</li>
+  <li>Move a file and delete a file</li>
+  <li>Create a file and add text using nano</li>
+</ul>
+
 
 
 
