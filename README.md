@@ -80,8 +80,6 @@ I use this space to document my learning, share tools, and showcase practical ex
 <ul>
   <li>Explore commands that help you learn more about other commands</li>
   <li>Find options for a command</li>
-  <li>Determine the differences between two commands</li>
-  <li>Identify the command needed to create a new group</li>
 </ul>
 
 
