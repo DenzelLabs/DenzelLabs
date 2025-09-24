@@ -59,6 +59,15 @@ I use this space to document my learning, share tools, and showcase practical ex
   <li>Create a file and add text using nano</li>
 </ul>
 
+<div><a href="https://github.com/DenzelLabs/File-Permissions">File Permissions</a></div>
+<ul>
+  <li>Check file and directory details</li>
+  <li>Describe the permissions string</li>
+  <li>Change file permissions</li>
+  <li>Change file permissions on a hidden file</li>
+  <li>Change directory permissions</li>
+</ul>
+
 
 
 
