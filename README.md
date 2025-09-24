@@ -44,6 +44,13 @@ I use this space to document my learning, share tools, and showcase practical ex
   <li>Search for information in user files</li>
 </ul>
 
+<div><a href="https://github.com/DenzelLabs/Manage-Authorization">Manage Authorization</a></div>
+<ul>
+  <li>Check permissions for files in a directory</li>
+  <li>Check for incorrect file permissions and change permissions as needed</li>
+  <li>Remove unauthorized access to a directory</li>
+</ul>
+
 
 
 
