@@ -9,7 +9,18 @@ I use this space to document my learning, share tools, and showcase practical ex
 
 <br><br>
 
-## SKILLS
+## PROJECTS & LABS
+
+### Wireshark
+
+<div><a href="https://github.com/DenzelLabs/Analyze-Packet">Analyze Packet</a></div>
+<ul>
+  <li>Open saved packet capture files</li>
+  <li>View high-level packet data</li>
+  <li>Use filters to inspect detailed packet data</li>
+</ul>
+
+<br><br>
 
 ### Linux
 
@@ -92,15 +103,6 @@ I use this space to document my learning, share tools, and showcase practical ex
   <li>Examine login attempts</li>
   <li>Sort the data returned from a query</li>
 </ul>
-
-
-
-
-
-<br><br>
-
-## PROJECTS
--
 
 <br><br>
 
