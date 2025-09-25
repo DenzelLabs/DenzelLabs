@@ -11,14 +11,15 @@ I use this space to document my learning, share tools, and showcase practical ex
 
 ## PROJECTS & LABS
 
-### Wireshark
+### Packet Capture
 
-<div><a href="https://github.com/DenzelLabs/Analyze-Packet">Analyze Packet</a></div>
+<div><a href="https://github.com/DenzelLabs/Wireshark">Wireshark</a></div>
 <ul>
   <li>Open saved packet capture files</li>
   <li>View high-level packet data</li>
   <li>Use filters to inspect detailed packet data</li>
 </ul>
+
 
 <br><br>
 
