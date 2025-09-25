@@ -20,6 +20,14 @@ I use this space to document my learning, share tools, and showcase practical ex
   <li>Use filters to inspect detailed packet data</li>
 </ul>
 
+<div><a href="https://github.com/DenzelLabs/tcpdump">tcpdump</a></div>
+<ul>
+  <li>Identify available network interfaces</li>
+  <li>Use tcpdump to capture live network traffic</li>
+  <li>Save network traffic to a packet capture file</li>
+  <li>Filter the packet capture data</li>
+</ul>
+
 
 <br><br>
 
