@@ -11,7 +11,7 @@ I use this space to document my learning, share tools, and showcase practical ex
 
 ## PROJECTS & LABS
 
-### <div><a href="https://github.com/DenzelLabs/tcpdump">Email Analysis</a></div>
+### <div><a href="https://github.com/DenzelLabs/Email-Analysis">Email Analysis</a></div>
 
 <ul>
   <li>Email header analysis (SPF, DKIM, return path)</li>
