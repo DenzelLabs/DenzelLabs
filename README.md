@@ -11,6 +11,18 @@ I use this space to document my learning, share tools, and showcase practical ex
 
 ## PROJECTS & LABS
 
+### <div><a href="https://github.com/DenzelLabs/tcpdump">Email Analysis</a></div>
+
+<ul>
+  <li>Email header analysis (SPF, DKIM, return path)</li>
+  <li>IP tracing and threat intelligence lookup</li>
+  <li>Malware detection and classification (Coinminer, BitRAT, AsyncRAT)</li>
+  <li>Hash analysis using VirusTotal and URLhaus</li>
+  <li>Registry and persistence mechanism investigation</li>
+</ul>
+
+<br><br>
+
 ### Packet Capture
 
 <div><a href="https://github.com/DenzelLabs/Wireshark">Wireshark</a></div>
@@ -27,7 +39,6 @@ I use this space to document my learning, share tools, and showcase practical ex
   <li>Save network traffic to a packet capture file</li>
   <li>Filter the packet capture data</li>
 </ul>
-
 
 <br><br>
 
