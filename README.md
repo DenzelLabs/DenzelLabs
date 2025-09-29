@@ -23,6 +23,17 @@ I use this space to document my learning, share tools, and showcase practical ex
 
 <br><br>
 
+### <div><a href="https://github.com/DenzelLabs/Incident-Handling-Risk-Assessment-and-Compliance-Auditing">Incident Handling, Risk Assessment, and Compliance Auditing</a></div>
+  <ul>
+    <li>Network traffic analysis (tcpdump, DNS, TCP, HTTP, ICMP)</li>
+    <li>Incident response and threat mitigation (SYN flood, DDoS, malware)</li>
+    <li>Risk assessment and security hardening (MFA, firewalls, strong passwords)</li>
+    <li>Compliance auditing (NIST, PCI DSS, GDPR, SOC)</li>
+    <li>Clear incident reporting and documentation</li>
+  </ul>
+
+  <br><br>
+
 ### Packet Capture
 
 <div><a href="https://github.com/DenzelLabs/Wireshark">Wireshark</a></div>
