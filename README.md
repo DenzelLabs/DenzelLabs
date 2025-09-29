@@ -146,16 +146,6 @@ I use this space to document my learning, share tools, and showcase practical ex
 <img src="https://img.shields.io/badge/-tcpdump-000000?&style=for-the-badge&logo=linux&logoColor=white" />  
 </div>
 
-### Endpoint
-<div>
-<img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-</div>
-
-### SIEM
-<div>
-<img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-</div>
-
 ### Malware Analysis & Threat Intelligence
 <div>
 <img src="https://img.shields.io/badge/-VMRay-FF6600?&style=for-the-badge&logo=VMware&logoColor=white" />
@@ -164,10 +154,6 @@ I use this space to document my learning, share tools, and showcase practical ex
 <img src="https://img.shields.io/badge/-Malpedia-4B275F?&style=for-the-badge&logo=BookStack&logoColor=white" />
 </div>
 
-### Utility
-<div>
-<img src="https://img.shields.io/badge/-Notepad++-90E59A?&style=for-the-badge&logo=Notepad%2B%2B&logoColor=black" />
-</div>
 
 
 <br><br>
