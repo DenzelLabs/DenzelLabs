@@ -181,6 +181,12 @@ I use this space to document my learning, share tools, and showcase practical ex
 <img src="https://img.shields.io/badge/-Malpedia-4B275F?&style=for-the-badge&logo=BookStack&logoColor=white" />
 </div>
 
+### Log Analysis & SIEM
+<div>
+<img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+<img src="https://img.shields.io/badge/-Search%20Processing%20Language%20(SPL)-1E4D2B?&style=for-the-badge&logo=CodeFactor&logoColor=white" />
+</div>
+
 
 
 <br><br>
