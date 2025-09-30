@@ -23,6 +23,33 @@ I use this space to document my learning, share tools, and showcase practical ex
 
 <br><br>
 
+### <div><a href="https://github.com/DenzelLabs/SIEM-Splunk">SIEM with Splunk</a></div>
+<ul>
+  <li>Navigated Splunk apps and accessed the Search & Reporting module.</li>
+  <li>Performed basic searches using wildcards (*) to view all collected events.</li>
+  <li>Explored Windows Event Viewer to understand system and security logs.</li>
+  <li>Cleared security event logs to generate fresh data for analysis.</li>
+  <li>Used field/value selections in Splunk to:
+    <ul>
+      <li>Add filters to refine search results.</li>
+      <li>Exclude unnecessary data from queries.</li>
+      <li>Remove filters to broaden results.</li>
+    </ul>
+  </li>
+  <li>Created structured Table Views to simplify log analysis.</li>
+  <li>Customized data presentation by selecting/deselecting log fields.</li>
+  <li>Designed a custom Dashboard using Dashboard Studio:
+    <ul>
+      <li>Added and configured panels with SPL queries.</li>
+      <li>Used <code>| fields -</code> command to remove irrelevant fields.</li>
+      <li>Saved and set the dashboard as the home/default view.</li>
+    </ul>
+  </li>
+  <li>Gained practical knowledge of SPL (Search Processing Language) for log filtering and visualization.</li>
+</ul>
+
+<br><br>
+
 ### <div><a href="https://github.com/DenzelLabs/Incident-Handling-Risk-Assessment-and-Compliance-Auditing">Incident Handling, Risk Assessment, and Compliance Auditing</a></div>
   <ul>
     <li>Network traffic analysis (tcpdump, DNS, TCP, HTTP, ICMP)</li>
