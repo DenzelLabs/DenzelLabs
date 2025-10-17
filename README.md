@@ -23,6 +23,18 @@ I use this space to document my learning, share tools, and showcase practical ex
 
 <br><br>
 
+### <div><a href="https://github.com/DenzelLabs/PowerShell-Keylogger">PowerShell Keylogger</a></div>
+
+<ul>
+  <li>Script analysis using Notepad++.</li>
+  <li>Identified keylogging and persistence functions.</li>
+  <li>Detected data exfiltration and storage methods.</li>
+  <li>Recognized DLL imports and regex filtering.</li>
+  <li>Understood connection retry logic.</li>
+</ul>
+
+<br><br>
+
 ### <div><a href="https://github.com/DenzelLabs/SIEM-Splunk">SIEM with Splunk</a></div>
 <ul>
   <li>Navigated Splunk apps and accessed the Search & Reporting module.</li>
